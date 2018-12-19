@@ -1,0 +1,26 @@
+{
+  "name": "kv-file-cache",
+  "version": "1.0.0",
+  "description": "Key value cache using files",
+  "main": "lib",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FujiHaruka/kv-file-cache.git"
+  },
+  "keywords": [
+    "Cache",
+    "KeyValue"
+  ],
+  "author": "FujiHaruka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FujiHaruka/kv-file-cache/issues"
+  },
+  "homepage": "https://github.com/FujiHaruka/kv-file-cache#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
