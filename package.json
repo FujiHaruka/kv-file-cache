@@ -1,6 +1,6 @@
 {
   "name": "kv-file-cache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Key value cache using files",
   "main": "lib",
   "scripts": {
